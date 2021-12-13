@@ -47,5 +47,6 @@
 
 4) SELECT Name FROM students WHERE Name LIKE '%s%';
 
-5) SELECT * FROM students ORDER BY Points DESC;
+5) 5) SELECT * FROM students ORDER BY Points DESC;
+
 
